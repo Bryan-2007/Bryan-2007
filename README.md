@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan Roger B
+- 👋 Hi, I’m Bryan Roger B (Leetcode profile - https://leetcode.com/u/Bryan_PTL/)
 - 👀 I’m interested in programming and research in the IT field
 - 🌱 I’m currently learning DSA in C, OOPS in java and blockchain.
 - 💪🏻 I am experienced with programming with Python, Java, MySQL and react.
