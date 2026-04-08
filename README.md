@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan, a technical enthusiast, who loves emerging technologies, always eager to help people!
+- 👋 Hi, I’m Bryan, a tech enthusiast, who loves emerging technologies, always eager to help people!
 - 👀 The latest technologies including Blockchain and AI always fascinates me
 - 🌱 I’m currently exploring web3 projects and AI integration
 - 💪🏻 I'm experienced with Python, Java, C, HTML, CSS, JS & MySQL
